@@ -1,4 +1,5 @@
-# webida-client
+# webida-client 
+[![DeepScan Grade](http://a5811e54.ngrok.io/api/projects/302/branches/230/badge/grade.svg)](http://dev.deepscan.io:5001/lite/#view=project&pid=302&bid=230)
 
 **Webida** is an web-based Rich Client Platform. Based on plugin-system,
 you can add your own feature by building your plugin. Also you can easily extend
