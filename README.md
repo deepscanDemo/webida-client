@@ -6,7 +6,7 @@ new features just installing new plugins from others. Since 2012 Webida has been
 JavaScript IDE, Graphic Editing Tool, Performance Monitoring Tool, IoT SDK and ETC.
 You can try webida demo as guest mode **[https://webida.org](https://webida.org/pages/index.html#guest)**.
 
-### Webida IDE Screen Shot
+### Webida IDE Screen Shot 
 
 ![image](https://cloud.githubusercontent.com/assets/7447396/11450399/15612d02-95e2-11e5-8887-6035671f740e.png)
 
